@@ -4,7 +4,7 @@
 
 
 
-##Google has removed documentation of Gemini AQA. Therefore, this repo is now DEPRECATED
+## Google has removed documentation of Gemini AQA. Therefore, this repo is now DEPRECATED
 
 
 GeminiAQA is a Python module that interacts with Google’s AI Generative Language Model. It allows you to create and manage corpora, documents, and their respective chunks. The module also provides functionalities to generate answers based on user queries and manage different Google Cloud resources.
